@@ -12,7 +12,7 @@
 <br> 좋은 아이디어 카드들은 따로 스크랩해 모아볼 수 있습니다.<br><br>
 <br> 개발 기간 : 2020-07-11~2020-08-30 <br>
 <br> Language : Swift 5.0 <br>
-<br> iOS Depolyment Target : 13.0 <br>
+<br> iOS Deployment Target : 13.0 <br>
 <br> App Store : https://apple.co/3jS1ny0 <br>
 
 <br>
